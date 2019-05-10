@@ -34,6 +34,7 @@ class StockData:
                 'outputsize':mode} 
         responce = requests.get('https://www.alphavantage.co/query', params).json()
 
+        if not "Time Series (Daily)" in responce: exit("Failed to load " + self.ticker)
         return self.populate_data(responce["Time Series (Daily)"])
 
     # Saves the data to a file
