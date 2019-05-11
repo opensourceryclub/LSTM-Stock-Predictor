@@ -1,7 +1,8 @@
 
 # LSTM-STOCK-PREDICTOR
 
-  
+
+HEY U STUOIPD WHY TEHYERE BO DEPENENENCIES IDK WHAT TO FINSALL VIRtuAK ENV MARBE THANKS U GOOD PROGRAMmer  
 
 Use the command line to train and visualize stock data
 
