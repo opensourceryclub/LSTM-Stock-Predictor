@@ -2,8 +2,6 @@
 # LSTM-STOCK-PREDICTOR
 
 
-HEY U STUOIPD WHY TEHYERE BO DEPENENENCIES IDK WHAT TO FINSALL VIRtuAK ENV MARBE THANKS U GOOD PROGRAMmer  
-
 Use the command line to train and visualize stock data
 
   
@@ -44,3 +42,8 @@ The graph will show the stocks price over the most recent `days` days aswell as 
 ## Future plans
 
 Currently working on ways to visualize the training proccess over time and customize the training to the stock more. The predictions as is are  in nead of some work aswell.
+
+## Special thanks to Zack:
+
+HEY U STUOIPD WHY TEHYERE BO DEPENENENCIES IDK WHAT TO FINSALL VIRtuAK ENV MARBE THANKS U GOOD PROGRAMmer  
+
