@@ -106,6 +106,6 @@ Stock:  AAPL
 > exit
 ```
 
-## Special thanks to Zack:
+## Special thanks to Zach:
 
 HEY U STUOIPD WHY TEHYERE BO DEPENENENCIES IDK WHAT TO FINSALL VIRtuAK ENV MARBE THANKS U GOOD PROGRAMmer  
