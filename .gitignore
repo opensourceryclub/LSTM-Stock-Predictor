@@ -1,6 +1,3 @@
-Saved_Models/*
-Saved_Data/*
+save_data
+scripts/__pycache__
 apikey.txt
-stockList.txt
-__pycache__
-predictionOutput.csv

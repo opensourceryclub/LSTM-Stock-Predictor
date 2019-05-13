@@ -1,0 +1,35 @@
+exit - exit the CLI
+
+init - create file and folder structure
+
+help - view this file
+
+data [ticker] - loads in data from a specific ticker
+
+create [ticker] - creates a model to predict a specific ticker
+
+delete [ticker] - remove a model for a ticker
+
+chart:
+
+    chart data [ticker] (days) - charts most recent days of stock close data, days defaults to 100
+
+    chart window [ticker] (day) - charts prediction window for day, default is today
+
+    chart model [ticker] (days) - charts models prediction over the last days, days defaults to 100
+
+train
+
+    train [ticker] normal - trains stock with a standard set of trainings
+
+    train [ticker] [epochs] [days] - trains ticker a specific number of epochs on most recent number of days
+
+retrain [ticker] - delete, recreate, retrain, then chart a specific model
+
+evaluate [ticker] - runs model on segments of stock history and predict profits if you had followed predictions
+
+predict
+
+    predict [ticker] - predict the next value of the ticker using existing model
+
+    predict all - runs predict on all exsiting models and sorts by profits
