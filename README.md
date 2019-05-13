@@ -8,6 +8,7 @@ Use the command line to train and visualize stock data
 
 ## Getting Started
 
+<<<<<<< HEAD
 1. Install Dependencies w/ pip
 
 ```
