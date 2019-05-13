@@ -11,7 +11,7 @@ Use the command line to train and visualize stock data
 1. Install Dependencies w/ pip
 
 ```
-pip install keras tenserflow numpy matplotlib pylab requests
+pip install keras tensorflow numpy matplotlib requests
 ```
 
 2. Get an api key for stock data from [AlphaVantage](https://www.alphavantage.co/)
