@@ -8,7 +8,6 @@ Use the command line to train and visualize stock data
 
 ## Getting Started
 
-<<<<<<< HEAD
 1. Install Dependencies w/ pip
 
 ```
@@ -47,7 +46,7 @@ Loading in data
  - Downloading and saving full stock data
 Showing last 100 days worth of data
 ```
-![](http://drive.google.com/uc?export=view&id=1woK0nVOoIt-BMYyGJStSuI9q_ImcEXKt))
+![](http://drive.google.com/uc?export=view&id=1woK0nVOoIt-BMYyGJStSuI9q_ImcEXKt)
 3. Train model on data. More training options availible. Look at help file
 ```
 > train AAPL normal
